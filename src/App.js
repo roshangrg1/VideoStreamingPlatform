@@ -1,4 +1,5 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { Navbar,Feed, VideoDetail, ChannelDetail,SearchFeed } from "./comonents";
 
 function App() {
   return (
